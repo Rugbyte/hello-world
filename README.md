@@ -1,2 +1,5 @@
 # hello-world
-Generic testing for 
+
+Simon Varlow's Hello-World test repo
+
+Updating file for testing purposes 
