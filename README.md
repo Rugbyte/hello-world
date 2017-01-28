@@ -1,5 +1,24 @@
-# hello-world
+# Rubyte's Hello-World
 
-Simon Varlow's Hello-World test repo
+Rubyte's Hello-World General Repo
 
-Updating file for testing purposes 
+## What you will find 
+
+In the following repository you will find Python, Ruby, CSS and HTML files
+
+### Python
+
+---
+### Ruby
+
+---
+### WWW
+
+---
+#### CSS
+
+
+
+> #### Disclaimer
+>
+> This code is for general use and there is no guarentee that this work for any enviroment. 
