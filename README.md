@@ -17,8 +17,7 @@ In the following repository you will find Python, Ruby, CSS and HTML files
 ---
 #### CSS
 
-
-
+---
 > #### Disclaimer
 >
 > This code is for general use and there is no guarentee that this work for any enviroment. 
